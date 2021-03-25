@@ -367,7 +367,7 @@ Security Architecture for Internet Protocol。 暗号技術を用いることで
 
 ## L2TP
 
-Layer 2 Tunneling Protocol。データリンク層(第2層)において、ある機器から任意のアドレスの別の機器までの仮想トンネルを作成しデータを送受信するためのプロトコル。 PPP接続を利用してVPN接続ができる。暗号化の目的で[Ipsec](ipsec)と併用される場合が多い。
+Layer 2 Tunneling Protocol。データリンク層(第2層)において、ある機器から任意のアドレスの別の機器までの仮想トンネルを作成しデータを送受信するためのプロトコル。 PPP接続を利用してVPN接続ができる。暗号化の目的で[Ipsec](#ipsec)と併用される場合が多い。
 
 ## SPF
 
