@@ -315,7 +315,7 @@ Intrusion detection system、侵入検知システム。ネットワーク上を
 
 ## ISO/IEC 15408
 
-[CC(Common Criteria)](CC(Common-Criteria))参照。
+[CC(Common Criteria)](#CC(Common-Criteria))参照。
 
 ## ISO/IEC 14516
 
